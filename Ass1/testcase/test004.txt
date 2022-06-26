@@ -1,0 +1,42 @@
+ineg
+iconst 21
+istore 108
+iconst 39
+fconst 6.802
+top
+top
+f2i
+top
+fconst 6.812
+istore 76
+fconst 7.835
+top
+fconst -12.728
+top
+iconst -67
+iconst -24
+fconst -17.452
+iconst -15
+fconst -17.519
+iconst 77
+fconst 5.614
+top
+iconst -14
+iconst -78
+fconst 8.353
+top
+top
+iconst -73
+top
+top
+iconst -58
+top
+top
+top
+top
+fconst -5.656
+top
+top
+fconst 11.132
+fconst 5.502
+top

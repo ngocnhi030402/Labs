@@ -1,0 +1,25 @@
+iconst 3
+iconst 24
+fconst -2.240
+iconst 44
+iconst -62
+ilt
+fconst 14.681
+iconst 57
+fconst -2.376
+fneq
+top
+top
+iconst 73
+istore 80
+fconst 14.805
+fconst 4.365
+fload 80
+top
+iadd
+iconst -36
+fconst 6.523
+top
+fconst -4.975
+top
+top

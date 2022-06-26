@@ -1,0 +1,21 @@
+iconst 34
+iconst -98
+iconst -5
+top
+feq
+iconst 82
+fsub
+iconst 1
+ibnot
+iconst -36
+top
+fsub
+iconst -94
+istore 234
+fconst -11.544
+fconst 7.777
+f2i
+top
+iload 36
+ior
+top

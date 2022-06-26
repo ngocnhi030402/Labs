@@ -1,0 +1,8 @@
+iconst 3
+iconst 2
+top
+iadd
+top
+iconst 8
+isub
+top

@@ -1,0 +1,4 @@
+iconst 3
+fconst 2
+fmul
+top
